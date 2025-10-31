@@ -1,4 +1,4 @@
-<h3 align="left">Olá, eu sou Cristhian Cintra.<br>Bacharel em Engenharia da Computação pelo IFSULDEMINAS <br>Pós-graduando em Cibersegurança e Governança de Dados pela PUC Minas.<br><br></h3>
+<h3 align="left">Olá, eu sou Cristhian Cintra.<br>Bacharel em Engenharia da Computação pelo IFSULDEMINAS <br>Pós-graduado em Cibersegurança e Governança de Dados pela PUC Minas.<br><br></h3>
 
 ###
 
